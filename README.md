@@ -64,10 +64,4 @@ Building the bridge between classic software engineering and AI-native products.
 - Exploring neural networks, intelligent workflows, and modern developer tooling
 - Growing into a stronger engineer with deeper backend and systems thinking
 
-## Mindset
-
-> Build with clarity. Design with taste. Automate what matters.
-
-## Connect
-
-If you are building something at the intersection of web, automation, and AI, we will probably have a lot to talk about.
+--------------------------------------------------------------------------------------
