@@ -64,4 +64,4 @@ Building the bridge between classic software engineering and AI-native products.
 - Exploring neural networks, intelligent workflows, and modern developer tooling
 - Growing into a stronger engineer with deeper backend and systems thinking
 
---------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
