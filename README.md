@@ -65,4 +65,3 @@ Building the bridge between classic software engineering and AI-native products.
 - Growing into a stronger engineer with deeper backend and systems thinking
 -------------------------------------------------------------------------------------------
 
--------------------------------------------------------------------------------------
